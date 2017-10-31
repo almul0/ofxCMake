@@ -30,4 +30,4 @@ OF_include_external_addOn( ofxSyphon )
 OF_include_external_addOn( ofxOscHandShake )
 OF_include_external_addOn( ofxTextAlign )
 OF_include_external_addOn( ofxBox2d )
-
+OF_include_external_addOn( ofxWiiMouse )
